@@ -4,4 +4,4 @@ python:
   - "3.3"
   - "3.4"
 script:
-    python FrecuencyOfWords-UnitTesting.py
+    coverage FrecuencyOfWords-UnitTesting.py
